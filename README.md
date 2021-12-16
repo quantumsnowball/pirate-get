@@ -45,7 +45,7 @@ path = ~/downloads/pirate-get/db
 
 [Search]
 ; maximum number of results to show
-total-results = 50
+total-results = 15
 
 [Misc]
 ; specify a custom command for opening the magnet
